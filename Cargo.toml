@@ -3,3 +3,4 @@ name = "rust-binary-template"
 version = "0.1.0"
 authors = ["kiwiyou <kiwiyou.dev@gmail.com>"]
 edition = "2018"
+license = "MIT/Apache-2.0"

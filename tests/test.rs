@@ -1,4 +1,4 @@
 #[test]
 fn it_works() {
-    todo!()
+    assert_eq!(1 + 1, 2);
 }

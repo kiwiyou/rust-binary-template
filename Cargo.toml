@@ -1,6 +1,6 @@
 [package]
-name = "rust-binary-template"
+name = "{{project-name}}"
 version = "0.1.0"
-authors = ["kiwiyou <kiwiyou.dev@gmail.com>"]
+authors = ["{{authors}}"]
 edition = "2018"
 license = "MIT/Apache-2.0"
